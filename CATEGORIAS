@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR blue]|||[/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR blue]TV AO VIVO - DK tv[/COLOR] [COLOR blue]|||[/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR]</name>
+<thumbnail>https://ia601402.us.archive.org/11/items/fanarttv_202009/icontv.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601402.us.archive.org/11/items/fanarttv_202009/fanarttv.png</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - TV AO VIVO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR blue]|||[/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR blue]FILMES - DK tv[/COLOR] [COLOR blue]|||[/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/7/items/filmes_20200903/Filmes_icon.jpg</thumbnail>
 <externallink>https://</externallink>
