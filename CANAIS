@@ -8,7 +8,7 @@
 
 <channel>
 <name>[B]DISCOVERY CHANEL  - [COLOR yellow](2020)[/COLOR] - [COLOR lime](HD)[/COLOR] - BR[/B]</name>
-<link>https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1599448942&token=0e829fb417f5d4d785120ba31e464994$$lsname=[COLOR lime](HD)[/COLOR] - LINK </link>
+<link>$$lsname=[COLOR lime](HD)[/COLOR] - https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1599448942&token=0e829fb417f5d4d785120ba31e464994 </link>
 <thumbnail>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</thumbnail>
 <fanart>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</fanart>
 <info>Discovery Brasil, você encontrará programas de televisão, vídeos, aventuras, ciência, tecnologia, crime, investigação, mistérios, mundo natural, pessoas, carros ...</info>
