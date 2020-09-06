@@ -14,3 +14,10 @@
 <info>Discovery Brasil, você encontrará programas de televisão, vídeos, aventuras, ciência, tecnologia, crime, investigação, mistérios, mundo natural, pessoas, carros ...</info>
 <genre>documentarios</genre>
 </item>
+
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]discovery channel[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</thumbnail>
+<externallink>https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1599446250&token=b020a906114a315e9f2c747a90972924</externallink>
+<fanart>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</fanart>
+<info>
