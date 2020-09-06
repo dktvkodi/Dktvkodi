@@ -1,10 +1,10 @@
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<title>[B]ROGUE  - [COLOR yellow](2020)[/COLOR] - [COLOR lime](FHD)[/COLOR] - DUBLADO [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/RGUE.mp4?attachment=true$$lsname=[COLOR lime](FHD)[/COLOR] - LINK 3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4UbBXsjjpOeTaWYa0ZYR4XvqZBb.jpg</fanart>
+<info>Um esquadrão de soldados liderados por O'Hara estão sob a missão de resgatar a filha de um governador de seus captores em um lugar remoto da Africa. Mas quando as coisas dão errados, eles não tem que sobreviver não apenas ao encontro sangrento com uma gangue de rebeldes, mas também a uma horda de leões famintos.</info>
+<genre>Acao</genre>
 </item>
