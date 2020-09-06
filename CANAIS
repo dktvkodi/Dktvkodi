@@ -2,13 +2,13 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DKTV[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg</thumbnail>
-<externallink>https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1599448942&token=0e829fb417f5d4d785120ba31e464994</externallink>
+<externallink>https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg</fanart>
 <info>
 
 <channel>
 <name>[B]DISCOVERY CHANEL  - [COLOR yellow](2020)[/COLOR] - [COLOR lime](HD)[/COLOR] - BR[/B]</name>
-<link>https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1599448942&token=0e829fb417f5d4d785120ba31e464994$$lsname=[COLOR lime](HD)[/COLOR] -LINK </link>
+<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8lsname=[COLOR lime](HD)[/COLOR] -LINK </link>
 <thumbnail>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</thumbnail>
 <fanart>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</fanart>
 <info>Discovery Brasil, você encontrará programas de televisão, vídeos, aventuras, ciência, tecnologia, crime, investigação, mistérios, mundo natural, pessoas, carros ...</info>
@@ -18,6 +18,6 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]discovery channel[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</thumbnail>
-<externallink>https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1599448942&token=0e829fb417f5d4d785120ba31e464994</externallink>
+<externallink>https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8</externallink>
 <fanart>https://designconceitual.com.br/wp-content/uploads/2019/04/Discover_2019.jpg</fanart>
 <info>
