@@ -14,3 +14,7 @@ Inclusive o Programa Largados e Pelados tem uma audiência bem grande aqui no Br
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Animal_Planet.png" group-title="ATUALIZAÇÕES DO DIA",ANIMAL PLANET
 https://streaming.belugacdn.link/a/hls1/animalplanet.m3u8?expires=1599471578&token=065e1dcc0bab94e26c31296756e188c4
 <info>No Animal Planet humanos e animais se conectam. Aqui, você poderá conhecer a realidade da vida selvagem ou dos animais domésticos. É imperdível!
+
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Animal_Planet.png" group-title="ATUALIZAÇÕES DO DIA"H2
+https://streaming.belugacdn.link/a/hls1/history2.m3u8?expires=1599476139&token=9e14c827ac16702d8e8c31a0af857c26
+<info>No Animal Planet humanos e animais se conectam. Aqui, você poderá conhecer a realidade da vida selvagem ou dos animais domésticos. É imperdível!
