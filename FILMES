@@ -1,10 +1,35 @@
 <item>
 <title>[B]ROGUE  - [COLOR yellow](2020)[/COLOR] - [COLOR lime](FHD)[/COLOR] - DUBLADO [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/RGUE.mp4?attachment=true$$lsname=[COLOR lime](FHD)[/COLOR] - LINK 3</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/RGUE.mp4?attachment=true$$lsname=[COLOR lime](FHD)[/COLOR] -</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4UbBXsjjpOeTaWYa0ZYR4XvqZBb.jpg</fanart>
 <info>Um esquadrão de soldados liderados por O'Hara estão sob a missão de resgatar a filha de um governador de seus captores em um lugar remoto da Africa. Mas quando as coisas dão errados, eles não tem que sobreviver não apenas ao encontro sangrento com uma gangue de rebeldes, mas também a uma horda de leões famintos.</info>
 <genre>Acao</genre>
 </item>
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qAEDvwY.jpg" group-title="ATUALIZAÇÕES DO DIA",A Forma da Água - DUB
+https://www.googleapis.com/drive/v3/files/1JMsCSCuAJMNxcGzWNcdiFJjIciR_eGq5?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx5mHbs77nEl1kuhEyvEjT1wtFl.jpg" group-title="ATUALIZAÇÕES DO DIA",Pantera Negra
+http://link4.ntcdn.us/lanadelrey/movies/panteranegra-dub-720p.mp4?cdn_hash=6a8b11e6d25aebf95747c075edcd8717&cdn_creation_tim#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 17/03 
+http://0.0.0.0
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qAEDvwY.jpg" group-title="ATUALIZAÇÕES DO DIA",A Forma da Água - DUB
+https://www.googleapis.com/drive/v3/files/1JMsCSCuAJMNxcGzWNcdiFJjIciR_eGq5?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx5mHbs77nEl1kuhEyvEjT1wtFl.jpg" group-title="ATUALIZAÇÕES DO DIA",Pantera Negra
+http://link4.ntcdn.us/lanadelrey/movies/panteranegra-dub-720p.mp4?cdn_hash=6a8b11e6d25aebf95747c075edcd8717&cdn_creation_time=1521319835&cdn_ttl=14440
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//t3M7PW2skoitpWVu7i4GiepGkK1.jpg" group-title="ATUALIZAÇÕES DO DIA",Passado Roubado
+https://www.googleapis.com/drive/v3/files/1dPHmmyoY9wAPAobeY2q6lAVKkmzwyHdY?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnXaUxdKD2t1B74cutWA5rjBLgD.jpg" group-title="ATUALIZAÇÕES DO DIA",Paddington 2
+https://www.googleapis.com/drive/v3/files/1ulKjnQQ5CaWrjCqqZKUtpTa0UGlG0-r0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//sUDg8k9T677DEGNDpsyANZTYAji.jpg" group-title="ATUALIZAÇÕES DO DIA",Pequena Grande Vida
+https://www.googleapis.com/drive/v3/files/1uU3HvcLghMD8rEupmnAIf1zsxWeygjFk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
