@@ -9,12 +9,12 @@
 [COLOR deeppink]|[/COLOR] - Addon do Mat - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx5mHbs77nEl1kuhEyvEjT1wtFl.jpg" group-title="ATUALIZAÇÕES DO DIA",Pantera Negra
-http://link4.ntcdn.us/lanadelrey/movies/panteranegra-dub-720p.mp4?cdn_hash=6a8b11e6d25aebf95747c075edcd8717&cdn_creation_tim#EXTM3U
-<info>O Pantera Negra é T'Challa, rei da nação africana chamada Wakanda. Depois de ser educado nas melhores escolas européias e norte-americanas, TChalla voltou ao seu reino para assumir o manto da liderança. Sob sua orientação, o pequeno país tornou-se uma das nações mais ricas e avançadas de todo o planeta. Durante uma cerimônia de iniciação de seu povo, o Pantera Negra ingeriu uma erva mística que é reservada somente aos reis, que lhe conferiu poderes sobre-humanos, tais como sentidos aguçados, força, velocidade e resistência acima dos níveis normais. É um exímio ginasta e acrobata, além de conhecer artes marciais africanas e ser um excelente rastreador.
-
 
 #EXTINF:-1 tvg-logo="https://www.0800bancos.com.br/wp-content/uploads/2019/08/discovery-brasil.png" group-title="ATUALIZAÇÕES DO DIA",DISCOVERY CHANNEL HD - BR
 https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1599470017&token=9239f63fe940038515116b12a06a7b30
 <info>Entre os programas conhecidos que passam no canal estão: Pesca mortal, Corridas Perigosas, Em busca de relíquias, Rumo ao Desconhecido; Largados e Pelados.
 Inclusive o Programa Largados e Pelados tem uma audiência bem grande aqui no Brasil. O programa retrata a convivência de um casal que não se conhece durante 21 dias num ambiente selvagem sem comida, sem água e sem roupa. O reality norte-americano Largados e Pelados já é considerado um sucesso de audiência ao redor do mundo.
+
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Animal_Planet.png" group-title="ATUALIZAÇÕES DO DIA",ANIMAL PLANET
+https://streaming.belugacdn.link/a/hls1/animalplanet.m3u8?expires=1599471578&token=065e1dcc0bab94e26c31296756e188c4
+<info>No Animal Planet humanos e animais se conectam. Aqui, você poderá conhecer a realidade da vida selvagem ou dos animais domésticos. É imperdível!
